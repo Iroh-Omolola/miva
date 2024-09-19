@@ -1,7 +1,6 @@
 "use client";
 
 import AuthFrame from "@/component/AuthFrame";
-import { TextInput } from "@/component/TextInput";
 import Link from "next/link";
 import {
   Alert,
